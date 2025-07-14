@@ -392,6 +392,24 @@
         <mxCell id="7kykOVdzn0JzqWnfIJqe-86" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;mysql5.7-123&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;192.168.10.123&lt;div style=&quot;resize: none; outline: none; font-size: inherit;&quot;&gt;32C/72G&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7kykOVdzn0JzqWnfIJqe-138">
           <mxGeometry x="117.41304347826087" y="40" width="256.17391304347825" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7kykOVdzn0JzqWnfIJqe-139" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.258;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000FF;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="7kykOVdzn0JzqWnfIJqe-13" target="7kykOVdzn0JzqWnfIJqe-43">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="370" y="680" as="sourcePoint" />
+            <mxPoint x="750" y="660" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7kykOVdzn0JzqWnfIJqe-140" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.377;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000FF;strokeWidth=2;" edge="1" parent="1" source="7kykOVdzn0JzqWnfIJqe-13" target="7kykOVdzn0JzqWnfIJqe-44">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="670" y="660" as="sourcePoint" />
+            <mxPoint x="750" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="540" />
+              <mxPoint x="620" y="540" />
+              <mxPoint x="969" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
