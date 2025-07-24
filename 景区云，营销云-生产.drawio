@@ -146,12 +146,12 @@
         <mxCell id="umgCvMGF8Q4jKKfUTwUB-22" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;h5.whctg.com&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;H5入口 自在威海-智慧旅游平台&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" parent="7kykOVdzn0JzqWnfIJqe-90" vertex="1">
           <mxGeometry x="95" width="200" height="58.88" as="geometry" />
         </mxCell>
-        <mxCell id="7kykOVdzn0JzqWnfIJqe-99" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF33FF;strokeWidth=2;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" target="7kykOVdzn0JzqWnfIJqe-44" edge="1">
+        <mxCell id="7kykOVdzn0JzqWnfIJqe-99" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF33FF;strokeWidth=2;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="7kykOVdzn0JzqWnfIJqe-44" edge="1" source="7kykOVdzn0JzqWnfIJqe-91">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="615" y="991" as="sourcePoint" />
+            <mxPoint x="620" y="990" as="sourcePoint" />
             <mxPoint x="870" y="1010" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="940" y="990" />
+              <mxPoint x="910" y="990" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -264,7 +264,7 @@
             <mxPoint x="1010" y="1320" as="sourcePoint" />
             <mxPoint x="1090" y="1320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1024" y="1110" />
+              <mxPoint x="1064" y="1110" />
               <mxPoint x="1250" y="1110" />
               <mxPoint x="1453" y="1110" />
             </Array>
@@ -275,7 +275,7 @@
             <mxPoint x="1009" y="1100" as="sourcePoint" />
             <mxPoint x="1090" y="1320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1009" y="1130" />
+              <mxPoint x="1034" y="1130" />
               <mxPoint x="1704" y="1130" />
             </Array>
           </mxGeometry>
@@ -325,24 +325,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7kykOVdzn0JzqWnfIJqe-126" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF33FF;strokeWidth=2;" parent="1" source="7kykOVdzn0JzqWnfIJqe-44" target="7kykOVdzn0JzqWnfIJqe-55" edge="1">
+        <mxCell id="7kykOVdzn0JzqWnfIJqe-126" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.343;exitY=0.981;exitDx=0;exitDy=0;strokeColor=#FF33FF;strokeWidth=2;exitPerimeter=0;" parent="1" source="7kykOVdzn0JzqWnfIJqe-44" target="7kykOVdzn0JzqWnfIJqe-55" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1050" y="1180" as="sourcePoint" />
             <mxPoint x="1130" y="1180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="949" y="1150" />
+              <mxPoint x="941" y="1150" />
               <mxPoint x="786" y="1150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7kykOVdzn0JzqWnfIJqe-127" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#FF33FF;strokeWidth=2;" parent="1" source="7kykOVdzn0JzqWnfIJqe-44" target="7kykOVdzn0JzqWnfIJqe-54" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1050" y="1180" as="sourcePoint" />
-            <mxPoint x="1130" y="1180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="860" y="1068" />
-              <mxPoint x="860" y="1130" />
-              <mxPoint x="585" y="1130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -472,7 +461,7 @@
             <mxPoint x="1220" y="720" as="sourcePoint" />
             <mxPoint x="1010" y="1010" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1020" y="695" />
+              <mxPoint x="1060" y="695" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -487,13 +476,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7kykOVdzn0JzqWnfIJqe-43" value="&lt;div&gt;&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;支付管理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;font-family: helvetica, arial, verdana, sans-serif; font-size: 13px;&quot;&gt;payment-manage&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;10.25.1.65 | 10.25.1.91&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;8C/8G&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;align=center;" parent="1" vertex="1">
-          <mxGeometry x="660" y="1015" width="150" height="70" as="geometry" />
+          <mxGeometry x="651" y="1015" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7kykOVdzn0JzqWnfIJqe-11" value="nginx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;perimeterSpacing=0;align=right;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-70" y="340" width="399" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7kykOVdzn0JzqWnfIJqe-44" value="&lt;div&gt;&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;售票管理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;lgd-ticket-111&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;192.168.10.111&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;4C/8G&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;align=center;" parent="1" vertex="1">
-          <mxGeometry x="912" y="1015" width="150" height="70" as="geometry" />
+        <mxCell id="7kykOVdzn0JzqWnfIJqe-44" value="&lt;div&gt;&lt;font face=&quot;Microsoft YaHei, 微软雅黑, Arial&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;售票管理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;ticket-sell&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;10.25.1.67 | 10.25.1.95 |&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;10.25.1.130 | 10.25.1.118&lt;/span&gt;&lt;br style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;4C/8G&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;align=center;" parent="1" vertex="1">
+          <mxGeometry x="833" y="1015" width="308" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iITyiV8JnJJ13BIh8I1--18" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#B46504;strokeWidth=2;fillColor=#a0522d;" parent="1" source="7kykOVdzn0JzqWnfIJqe-58" target="7kykOVdzn0JzqWnfIJqe-91" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -510,7 +499,7 @@
             <mxPoint x="1360" y="650" as="targetPoint" />
             <Array as="points">
               <mxPoint x="652" y="770" />
-              <mxPoint x="735" y="770" />
+              <mxPoint x="726" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -634,6 +623,16 @@
             <mxPoint x="330" y="449" as="sourcePoint" />
             <mxPoint x="360" y="449" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0cAWCuBhK8sL3BYv6XPo-54" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF33FF;strokeWidth=2;" edge="1" parent="1" source="7kykOVdzn0JzqWnfIJqe-44" target="7kykOVdzn0JzqWnfIJqe-54">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="820" y="1120" as="sourcePoint" />
+            <mxPoint x="900" y="1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="1110" />
+              <mxPoint x="585" y="1110" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
