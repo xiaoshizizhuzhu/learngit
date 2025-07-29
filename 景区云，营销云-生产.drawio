@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="XN6WbOP7wRev5Zxsz_oX">
-    <mxGraphModel dx="6774" dy="2972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5734" dy="2431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -812,13 +812,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BMXMZfDa0N_tZ35hjSIX-76" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;h5.whctg.com&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;H5入口 千里山海智慧旅游&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;check-wlh5.whctg.com&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;核销H5&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-950" y="30.119999999999994" width="200" height="58.88" as="geometry" />
+        <mxCell id="BMXMZfDa0N_tZ35hjSIX-76" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;h5.whctg.com&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;H5入口 千里山海智慧旅游&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;check-wlh5.whctg.com&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;核销H5&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;wenlv.whctg.com&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; text-wrap-mode: nowrap;&quot;&gt;文旅产业互联网平台&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-wrap-mode: nowrap;&quot;&gt;运营人员管理后台&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;hsh5.whhsly.com&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;H5入口&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;猫头山航线&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-wrap-mode: nowrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;check-hsh5.whhsly.com&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-wrap-mode: nowrap;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;核销H5&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;猫头山航线&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;admin-hsh5.whhsly.com&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;运营人员管理后台&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;猫头山航线&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1160" y="-40.120000000000005" width="420" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="BMXMZfDa0N_tZ35hjSIX-77" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;strokeWidth=2;" parent="1" source="BMXMZfDa0N_tZ35hjSIX-76" target="umgCvMGF8Q4jKKfUTwUB-1" edge="1">
+        <mxCell id="BMXMZfDa0N_tZ35hjSIX-77" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;strokeWidth=2;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="BMXMZfDa0N_tZ35hjSIX-76" target="umgCvMGF8Q4jKKfUTwUB-1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-440" y="-360" as="sourcePoint" />
-            <mxPoint x="-360" y="-360" as="targetPoint" />
+            <mxPoint x="-70" y="20" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -835,15 +835,13 @@
           <mxGeometry x="20" y="243" width="168" height="71" as="geometry" />
         </mxCell>
         <mxCell id="RdISGUF3RuTbAxOD1BtP-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;zhdn.jm-cloud.cn&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;智慧大脑&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2520" y="-7.105427357601002e-15" width="200" height="58.88" as="geometry" />
+          <mxGeometry x="-2510" y="80" width="200" height="58.88" as="geometry" />
         </mxCell>
-        <mxCell id="RdISGUF3RuTbAxOD1BtP-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1" source="RdISGUF3RuTbAxOD1BtP-8" target="umgCvMGF8Q4jKKfUTwUB-1">
+        <mxCell id="RdISGUF3RuTbAxOD1BtP-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1" source="RdISGUF3RuTbAxOD1BtP-8" target="umgCvMGF8Q4jKKfUTwUB-1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-670" y="370" as="sourcePoint" />
             <mxPoint x="-590" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-2420" y="120" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RdISGUF3RuTbAxOD1BtP-11" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;" edge="1" parent="1" source="hrGcY8F_n0ikThURvunG-13" target="RdISGUF3RuTbAxOD1BtP-2">
